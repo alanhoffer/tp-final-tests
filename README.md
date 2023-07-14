@@ -1,5 +1,5 @@
-<img src="https://imgur.com/a/bB2UXsj" />
 
+[circleci-image]: https://imgur.com/a/bB2UXsj
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>

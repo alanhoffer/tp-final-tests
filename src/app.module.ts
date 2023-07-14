@@ -4,7 +4,6 @@ import { AppService } from './app.service';
 import { ProductController } from './product/product.controller';
 import { ProductService } from './product/product.service';
 import { ProductModule } from './product/product.module';
-import { ProductModule } from './product/product.module';
 
 @Module({
   imports: [ProductModule],
